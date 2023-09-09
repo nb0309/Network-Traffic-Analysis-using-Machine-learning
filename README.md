@@ -61,6 +61,7 @@ Intel Extension for scikit-learn*:
 1. Intel extension can accelerate scikit-learn algorithms by up to 100x, which can significantly reduce the time it takes to train and deploy machine learning models.
 2. The extension is seamlessly integrated with scikit-learn, so you can continue to use the same API and code.
 3. The intel extension supports multiple devices, including CPUs, GPUs, and FPGAs. This allows you to choose the best device for your specific applicatino and workload.
+   
 Add two lines of code to patch all compatible algorithms in your Python script.
 ```
 from sklearnex import patch_sklearn
