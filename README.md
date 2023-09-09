@@ -175,11 +175,12 @@ Anomaly predictions are made, and anomalies are identified where the prediction 
 115756  Standard query 0x0000 PTR _nfs._tcp.local, "QM...        1  
 115757  Standard query 0x0000 PTR _nfs._tcp.local, "QM...        1  
 ```
-##Epoch:
+## Epoch:
 With Intel Extension for Tensorflow:
 ![image](https://github.com/nb0309/Network-Traffic-Analysis-using-Machine-learning/assets/93106796/f985f3b9-d78f-472d-8ef4-99b9871a1f66)
 
 Without using Intel Extension for Tensorflow:
+![image](https://github.com/nb0309/Network-Traffic-Analysis-using-Machine-learning/assets/93106796/f6c8fe7f-30cd-4412-bf53-8e341ba3a609)
 
 
 
