@@ -179,6 +179,7 @@ Anomaly predictions are made, and anomalies are identified where the prediction 
 With Intel Extension for Tensorflow:
 ![image](https://github.com/nb0309/Network-Traffic-Analysis-using-Machine-learning/assets/93106796/f985f3b9-d78f-472d-8ef4-99b9871a1f66)
 
+
 Without using Intel Extension for Tensorflow:
 ![image](https://github.com/nb0309/Network-Traffic-Analysis-using-Machine-learning/assets/93106796/f6c8fe7f-30cd-4412-bf53-8e341ba3a609)
 
