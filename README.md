@@ -44,8 +44,10 @@ Intel Extension for Tensorflow*:
 1. Plug into Tensorflow 2.10 or late to accelerate training and inference on Intel GPU hardware with no code changes.
 2. accelerate AI performance with Intel oneAPI Deep Neural Network Library(oneDNN) features such as graph optimizations and memory pool allocation.
 3. Automatically use Intel Deep Learning Boost instruction set features to parallelize and accelerate AI workloads.
-4. Enable optimizations by setting the environment variable by 
+4. Enable optimizations by setting the environment variable by
+```
 TF_ENABLE_ONEDNN_OPTS=1
+```
 ##
 Intel Distribution for Python*:
 1. The distribution is designed to scale efficiently across multiple CPU cores and threads. This scalability is essential for applications that required high-performance computing.
